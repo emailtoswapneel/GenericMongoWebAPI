@@ -1,0 +1,6 @@
+﻿Postman Use
+https://www.tutorialspoint.com/postman/index.htm
+https://www.tutorialspoint.com/postman/postman_post_requests.htm
+
+Key Value - Connection String in Appsettings.json
+https://www.c-sharpcorner.com/article/reading-values-from-appsettings-json-in-asp-net-core/
